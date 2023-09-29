@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kevin06x
 - 👀 I’m interested in learning how to code better.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on application.
+- 🌱 I’m currently learning C++, Python, and React.
+- 💞️ I’m looking to collaborate on an application.
 - 📫 How to reach me KevinZhang06x@gmail.com
 
 <!---
