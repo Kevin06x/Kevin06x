@@ -34,6 +34,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-brown?style=for-the-badge&logo=express&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-darkblue?style=for-the-badge&logo=react&logoColor=white)
+![Typscript](https://img.shields.io/badge/Typescript-lightblue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Technologies
 
@@ -46,12 +47,14 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge)&nbsp;
+![Tailwing CSS](https://img.shields.io/badge/Tailwind_CSS-purple?logo=tailwindcss&style=for-the-badge)&nbsp;
 
 ## Connect with me
 
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/Kevin06x/)
+[<img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=kodi&logoColor=black&color=white" />](https://www.linkedin.com/in/Kevin06x/)
 
 </p>
 
