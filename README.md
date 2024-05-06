@@ -4,7 +4,7 @@
 
 - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-darkblue?logo=tensorflow&style=for-the-badge)
 - ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?logo=lock&style=for-the-badge)
-- ![DevOps](https://img.shields.io/badge/Cloud_Engineering-white?logo=google-cloud&style=for-the-badge)
+- ![DevOps](https://img.shields.io/badge/DevOps-white?logo=google-cloud&style=for-the-badge)
 
 ## Projects
 
