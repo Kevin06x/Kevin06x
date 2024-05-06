@@ -54,7 +54,7 @@
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/Kevin06x/)
-[<img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=kodi&logoColor=black&color=white" />](https://www.linkedin.com/in/Kevin06x/)
+[<img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=keras&logoColor=black&color=white" />]((https://kevinzhang.vercel.app/))
 
 </p>
 
