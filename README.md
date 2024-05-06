@@ -11,7 +11,9 @@
 - [![Savor](https://img.shields.io/badge/Savor-%23008000.svg?style=for-the-badge&logoColor=white)](https://github.com/Kevin06x/Savor)
 - [![InsightfulLanterns](https://img.shields.io/badge/InsightfulLanterns-lightblue.svg?style=for-the-badge&logoColor=white)](https://github.com/Kevin06x/InsightfulLantern)
 - [![Web-Blog-Post](https://img.shields.io/badge/Web--Blog--Post-brown.svg?style=for-the-badge&logoColor=white)](https://github.com/Kevin06x/Web-Blog-Post)
-- [![Personal-Website](https://img.shields.io/badge/Personal--Website-%23000000.svg?style=for-the-badge&logoColor=white)](https://github.com/Kevin06x/Personal-Website)
+- [![Personal-Website](https://img.shields.io/badge/Personal--Website-blue.svg?style=for-the-badge&logoColor=white)](https://github.com/Kevin06x/Personal-Website)
+- [![Grading-System](https://img.shields.io/badge/Grading--System-gray.svg?style=for-the-badge&logoColor=white)](https://github.com/Kevin06x/Grading-System)
+
 
 ## Skills
 
