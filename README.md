@@ -49,6 +49,12 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge)&nbsp;
 ![Tailwing CSS](https://img.shields.io/badge/Tailwind_CSS-purple?logo=tailwindcss&style=for-the-badge)&nbsp;
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin06x/Kevin06x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevin06x/Kevin06x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kevin06x/Kevin06x/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Connect with me
 
 <p align = "center">
